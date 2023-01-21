@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "51358683206",
+    "firebase_url": "https://vu-af28c.firebaseio.com",
+    "project_id": "vu-af28c",
+    "storage_bucket": "vu-af28c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51358683206:android:78377e83cf9e67cbfe7a47",
+        "android_client_info": {
+          "package_name": "com.example.sensorflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51358683206-5v1q52cjs381v8jnud0l7u4v8cud8io5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmOSAp8EkDQqQmJ7MRZJzwRvDBrGxG8DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51358683206-5v1q52cjs381v8jnud0l7u4v8cud8io5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
